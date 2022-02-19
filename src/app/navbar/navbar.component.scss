@@ -1,0 +1,16 @@
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.active{
+  color: darkblue !important;
+}
+
+a:hover{
+  color: blue;
+}
+
+nav{
+  border-bottom: 2px solid darkblue;
+}
